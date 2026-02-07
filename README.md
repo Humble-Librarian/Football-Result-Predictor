@@ -57,7 +57,6 @@ Make sure your kit bag (environment) is packed.
 ```bash
 git clone https://github.com/Humble-Librarian/Football-Result-Predictor.git
 cd Football-Result-Predictor
-pip install -r requirements.txt
 ```
 
 ### 2. Kick-Off (Running the Model)
@@ -95,4 +94,5 @@ We are just getting started.
 > *"Some people believe football is a matter of life and death, I am very disappointed with that attitude. I can assure you it is much, much more important than that."*
 
 **Built with ❤️ and ☕ by a Fan, for the Fans.**
+
 
